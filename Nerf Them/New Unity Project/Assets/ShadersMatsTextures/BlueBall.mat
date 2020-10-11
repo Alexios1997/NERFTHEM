@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlueBall
+  m_Shader: {fileID: -6465566751694194690, guid: af4d6cc15eb0b5144b244804eaad6e94,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Amount: 1.06
+    - _Noice: 2.12
+    m_Colors:
+    - Color_9ADA62FA: {r: 0, g: 0.008930683, b: 1, a: 0}
+    - Color_C1849005: {r: 0.02352941, g: 0.78949666, b: 1, a: 0}
+    - _Color: {r: 1, g: 0.0235849, b: 0.0235849, a: 0}
+    - _Color1: {r: 0.02352941, g: 0.03994289, b: 1, a: 1}
+    - _FresCol: {r: 1, g: 0.08940235, b: 0, a: 0}
+    - _FresCol1: {r: 0, g: 0.0572505, b: 1, a: 1}
